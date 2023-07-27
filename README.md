@@ -1,70 +1,28 @@
-# Getting Started with Create React App
+Description for the Map UI App with Redux, Turf.js, and OSM:
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+The Map UI App is a modern web application that allows users to interact with an interactive map interface powered by OpenStreetMap (OSM). The app is built using React and the popular `create-react-app` (CRA) template, providing a seamless and intuitive user experience.
 
-## Available Scripts
+Key Features:
 
-In the project directory, you can run:
+1. Interactive Map Interface:
+   The app boasts a visually appealing and responsive map interface powered by OpenStreetMap data, providing users with a wide range of geographical information.
 
-### `npm start`
+2. Turf.js Integration:
+   Turf.js, a powerful geospatial analysis library, is seamlessly integrated into the app to perform various geographical calculations. The app leverages Turf.js to calculate the centroid of regions, area of polygons, and more.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+3. Ant Design Components:
+   The user interface is enhanced using the Ant Design library, which offers a wide range of pre-designed components, including buttons, forms, and cards. The app features a header with a dummy login/logout option, profile button, and a collapsible sidebar with icons and labels for smooth navigation.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+4. Redux State Management:
+   Redux, a state management library, is utilized to efficiently manage the app's state, including the selected region, region data, and night mode settings. This ensures a seamless flow of data across different components.
 
-### `npm test`
+5. Region Selection and Data Display:
+   Users can select a region from a dropdown menu, choosing from three options: United States, India, and United Kingdom. Upon selecting a region and clicking the 'Load' button, the map will display the chosen country, and a card will provide essential regional information, such as currency, speed units, distance units, volume units, and timezone(s).
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+6. Readable Codebase and Airbnb Code Standards:
+   The app's code adheres to the Airbnb code standards, ensuring a clean, readable, and maintainable codebase. Helpful comments are included to guide developers through the implementation.
 
-### `npm run build`
+7. README with App Description:
+   The app comes with a comprehensive README file, describing its features, functionalities, and how to run and test the application. This ensures ease of understanding and enables developers to get up and running quickly.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Overall, the Map UI App is a feature-rich, user-friendly, and visually appealing web application designed for users to explore different regions, gather essential geographical data, and switch between day and night modes seamlessly. With its integration of Redux, Turf.js, and OpenStreetMap, the app showcases the potential of powerful libraries and technologies in creating impressive and interactive map-based user interfaces.
