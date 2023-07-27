@@ -8,7 +8,7 @@ Key Features:
    The app boasts a visually appealing and responsive map interface powered by OpenStreetMap data, providing users with a wide range of geographical information.
 
 2. Turf.js Integration:
-   Turf.js, a powerful geospatial analysis library, is seamlessly integrated into the app to perform various geographical calculations. The app leverages Turf.js to calculate the centroid of regions, area of polygons, and more.
+   Turf.js, a powerful geospatial analysis library, is seamlessly integrated into the app to perform various geographical calculations.
 
 3. Ant Design Components:
    The user interface is enhanced using the Ant Design library, which offers a wide range of pre-designed components, including buttons, forms, and cards. The app features a header with a dummy login/logout option, profile button, and a collapsible sidebar with icons and labels for smooth navigation.
@@ -26,3 +26,7 @@ Key Features:
    The app comes with a comprehensive README file, describing its features, functionalities, and how to run and test the application. This ensures ease of understanding and enables developers to get up and running quickly.
 
 Overall, the Map UI App is a feature-rich, user-friendly, and visually appealing web application designed for users to explore different regions, gather essential geographical data, and switch between day and night modes seamlessly. With its integration of Redux, Turf.js, and OpenStreetMap, the app showcases the potential of powerful libraries and technologies in creating impressive and interactive map-based user interfaces.
+
+ Attach screenshot/screen recordings
+![Ist](https://github.com/Ashu6200/MapUp-Assignment/assets/109691178/fa2521e3-d0fe-460c-9ace-78781f6e07c2)
+![2nd](https://github.com/Ashu6200/MapUp-Assignment/assets/109691178/ee46f5e6-77e3-4671-9df5-ad4b6553868e)
