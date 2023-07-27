@@ -19,13 +19,10 @@ Key Features:
 5. Region Selection and Data Display:
    Users can select a region from a dropdown menu, choosing from three options: United States, India, and United Kingdom. Upon selecting a region and clicking the 'Load' button, the map will display the chosen country, and a card will provide essential regional information, such as currency, speed units, distance units, volume units, and timezone(s).
 
-6. Night Mode with Toggle Switch:
-   The app also features a bonus night mode, accessible through a toggle switch in the sidebar. Users can toggle between the standard day mode and a soothing night mode with reduced brightness for enhanced usability during nighttime or low-light conditions.
-
-7. Readable Codebase and Airbnb Code Standards:
+6. Readable Codebase and Airbnb Code Standards:
    The app's code adheres to the Airbnb code standards, ensuring a clean, readable, and maintainable codebase. Helpful comments are included to guide developers through the implementation.
 
-8. README with App Description:
+7. README with App Description:
    The app comes with a comprehensive README file, describing its features, functionalities, and how to run and test the application. This ensures ease of understanding and enables developers to get up and running quickly.
 
 Overall, the Map UI App is a feature-rich, user-friendly, and visually appealing web application designed for users to explore different regions, gather essential geographical data, and switch between day and night modes seamlessly. With its integration of Redux, Turf.js, and OpenStreetMap, the app showcases the potential of powerful libraries and technologies in creating impressive and interactive map-based user interfaces.
