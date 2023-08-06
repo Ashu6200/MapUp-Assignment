@@ -1,5 +1,6 @@
-Depolyed :- https://map-up-assignment-lovat.vercel.app
-https://map-up-assignment-lovat.vercel.app/
+Depolyed :- 
+1. https://map-up-assignment-snowy.vercel.app/
+2. https://map-up-assignment-lovat.vercel.app/
 
 
 Description for the Map UI App with Redux, Turf.js, and OSM:
