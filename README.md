@@ -1,4 +1,7 @@
 Depolyed :- https://map-up-assignment-lovat.vercel.app
+https://map-up-assignment-lovat.vercel.app/
+
+
 Description for the Map UI App with Redux, Turf.js, and OSM:
 
 The Map UI App is a modern web application that allows users to interact with an interactive map interface powered by OpenStreetMap (OSM). The app is built using React and the popular `create-react-app` (CRA) template, providing a seamless and intuitive user experience.
